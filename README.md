@@ -1,2 +1,3 @@
 # Cryptography
-My experimens and projects as I learn about cryptography
+Experiments and projects to learn cryptography
+
